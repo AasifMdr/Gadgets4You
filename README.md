@@ -19,7 +19,7 @@
 <p>-- Forgot Password Feature </p>
 <img src="/image_readme/login.png">
 
-### Ecommerce Front Page:
+### Front Page:
 <p>-- Category wise items is shown</p>
 <p>-- Search Button Feature</p>
 <img src="/image_readme/store.png">
