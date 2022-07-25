@@ -1,4 +1,4 @@
-# Ecommerce-Website
+# Gadgets4You
 
 ## Setup
 1. pip install -r requirements.txt
